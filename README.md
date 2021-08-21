@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [pratikwadekar.me](pratikwadekar.me)
+- 👨‍💻 All of my projects are available at [pratikwadekar.me](https://www.pratikwadekar.me)
 
 - 💬 Ask me about **Frontend Frameworks**
 
 - 📫 How to reach me **pratik.wadekar2810@gmail.com**
 
-- 📄 Know about my experiences [pratikwadekar.me](pratikwadekar.me)
+- 📄 Know about my experiences [pratikwadekar.me](https://www.pratikwadekar.me)
 
 
 <h3 align="left">Languages and Tools:</h3>
