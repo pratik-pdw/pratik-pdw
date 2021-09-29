@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Wadekar</h1>
 <h3 align="center">Passionate about delivering beautiful user experiences</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently working as Senior Software Engineer in Globant. I mainly use React and Material UI for UI Development followed with React Testing Library, Jest and Enzyme for writing my unit test cases.
 
 - 👨‍💻 All of my projects are available at [pratikwadekar.me](https://www.pratikwadekar.me)
 
