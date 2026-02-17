@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working as Senior Software Engineer in Globant. I mainly use React and Material UI for UI Development followed with React Testing Library, Jest and Enzyme for writing my unit test cases.
 
-- 👨‍💻 All of my projects are available at [pratikwadekar.me](https://www.pratikwadekar.me)
+- 👨‍💻 All of my projects are available at [pratikwadekar.dev](https://www.pratikwadekar.dev)
 
 - 💬 Ask me about **Frontend Frameworks**
 
